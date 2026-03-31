@@ -16,7 +16,9 @@ O usuário pode interagir com a câmera em perspectiva, rotacionando, aplicando 
    cd cubo-3d-threejs
 
 3. Abra o arquivo index.html em um navegador moderno (Chrome, Firefox, Edge).
+
   💡 Não é necessário instalar dependências, pois o projeto utiliza CDN para carregar o Three.js e OrbitControls.
+
 
 🎮 Interação- Rotação da câmera: clique e arraste com o botão esquerdo do mouse.
 - Zoom: use a rolagem do mouse.
