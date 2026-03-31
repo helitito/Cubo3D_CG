@@ -25,7 +25,8 @@ O usuário pode interagir com a câmera em perspectiva, rotacionando, aplicando 
 - O sistema de OrbitControls possibilita a interação com a câmera de forma intuitiva.
 - O renderizador ajusta automaticamente a proporção da câmera e o tamanho da tela ao redimensionar a janela, garantindo que a visualização permaneça correta.
  
-✨ Recursos Implementados- Cubo 3D verde visível na cena.
+✨ Recursos Implementados
+- Cubo 3D verde visível na cena.
 - Chão branco que recebe sombra.
 - Iluminação direcional que projeta sombra do cubo.
 - Câmera em perspectiva configurada corretamente.
